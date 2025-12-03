@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there
 
-<!--
-**popoviciC/popoviciC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cristi, a junior Frontend Developer passionate about building clean, modern, and responsive web interfaces.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm at the beginning of my web development journey, focusing on practical projects that help me grow and understand how real-world applications are created.
+I enjoy transforming ideas and designs into functional, user-friendly interfaces.
+
+## 🎨 What I Do
+
+### ✨ Explore UI/UX principles for smoother user experiences
+
+### 🧩 Create small interactive web apps
+
+### 📐 Practice clean, modern layout techniques
+
+### 📚 Currently Learning
+
+I'm continuously improving my frontend skills by building projects, experimenting with layouts, and learning best practices for clean and maintainable code.
+
+## 🧩 Areas I Enjoy Working In
+
+Landing pages & portfolios
+
+Dashboards & forms
+
+Interactive components
+
+Creative personal projects
+
+## 📫 Contact
+
+Feel free to reach out here on GitHub or through any contact details I may add later.
