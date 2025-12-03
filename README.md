@@ -9,13 +9,13 @@ I enjoy transforming ideas and designs into functional, user-friendly interfaces
 
 ## 🎨 What I Do
 
-### ✨ Explore UI/UX principles for smoother user experiences
+#### ✨ Explore UI/UX principles for smoother user experiences
 
-### 🧩 Create small interactive web apps
+#### 🧩 Create small interactive web apps
 
-### 📐 Practice clean, modern layout techniques
+#### 📐 Practice clean, modern layout techniques
 
-### 📚 Currently Learning
+#### 📚 Currently Learning
 
 I'm continuously improving my frontend skills by building projects, experimenting with layouts, and learning best practices for clean and maintainable code.
 
